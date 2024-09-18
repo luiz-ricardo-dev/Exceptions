@@ -12,3 +12,4 @@ C:\Users\usuario\Desktop\Projetos\Exceptions\obj\Debug\net8.0\refint\Exceptions.
 C:\Users\usuario\Desktop\Projetos\Exceptions\obj\Debug\net8.0\Exceptions.pdb
 C:\Users\usuario\Desktop\Projetos\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Projetos\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+C:\Users\usuario\Desktop\Projetos\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
